@@ -14,7 +14,7 @@
   },
   "author": "Tylor",
   "dependencies": {
-        "@whiskeysockets/baileys": "https://github.com/SHUKRANI-TECH/Baileys.git/archive/refs/tags/v2.0.5.tar.gz",
+        "@whiskeysockets/baileys": "https://github.com/SHUKRANI-TECH/Baileys.git",
         "adm-zip": "^0.5.16",
         "better-sqlite3": "^11.10.0",
         "acrcloud": "^1.4.0",
