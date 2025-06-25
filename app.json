@@ -1,9 +1,9 @@
 {
   "name": "SHUKRANI",
   "description": "SHUKRANI, your day to day assistant!",
-  "logo": "https://files.catbox.moe/ia1mgm.jpg",
+  "logo": "https://files.catbox.moe/bvy2u1.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/SPACE-MD",
+  "repository": "https://github.com/SHUKRANI-TECH/SHURANIbot.git",
   "stack": "container",
   "addons": [
     {
@@ -21,7 +21,7 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "255615184672",
     "required": true
   },
   "GITHUB_USERNAME": {
